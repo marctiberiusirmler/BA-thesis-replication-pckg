@@ -1,0 +1,31 @@
+R version: R version 4.4.1 (2024-06-14) 
+
+Required packages and installed versions:
+  here            1.0.1
+  tidyverse       2.0.0
+  zoo             1.8.12
+  readxl          1.4.5
+  openxlsx        4.2.7.1
+  countrycode     1.6.1
+  lubridate       1.9.4
+  imf.data        0.1.7
+  quantmod        0.4.27
+  tidyquant       1.0.11
+  tempdisagg      1.1.1
+  janitor         2.2.1
+  plm             2.6.6
+  lmtest          0.9.40
+  car             3.1.3
+  tseries         0.10.58
+  gplots          3.2.0
+  vars            1.6.1
+  svars           1.3.11
+  dfms            0.2.2
+  xts             0.14.1
+  purrr           1.0.2
+  stringr         1.5.1
+  reshape2        1.4.4
+  ggplot2         3.5.2
+  forcats         1.0.0
+  scales          1.4.0
+  tibble          3.2.1

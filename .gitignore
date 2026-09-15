@@ -1,0 +1,8 @@
+.DS_Store
+.Rhistory
+.RData
+.Rproj.user/
+~$*
+
+# Bloomberg terminal export
+data/raw/panel/World Indices_EoQ Prices.xlsx
